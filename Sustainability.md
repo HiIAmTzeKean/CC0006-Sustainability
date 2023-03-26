@@ -12,7 +12,5 @@ The ability for something to sustain itself.
 ## Challenges
 - [[Climate change]]
 
-
-
 ---
 Links: 
