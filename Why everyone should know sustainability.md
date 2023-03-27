@@ -22,7 +22,7 @@ date: 09--Jan--2023
 ## Questions
 1. How has the temperature changed over the past few decades
     1. Increasing trend
-2. What is the purpose of SDG
+2. What is the purpose of 17 UN SDG
     1. End poverty, protect planet, peace prosperity
 3. Advantage of trees in Singapore
     1. CO2 absorption, shade, cooler temperature
