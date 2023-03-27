@@ -45,6 +45,16 @@ date: 14--Jan--2023
     1. True. Some argue that it could do more harm, such as government corruption or reliance
 15. Overall [[Official development assistance]] has benefited developing country
     1. True. It has been a strong stable external resource for developing courtiers. It has effectively promoted public health and good practices.
+16. [[Gini coefficient]] is a good measure of a country's overall wealth
+    1. False. It measures the distribution of wealth in a country
+17. Country with the same [[Gini coefficient]] have similar wellbeing
+    1. False. There are other factors that affect wellbeing like overall GDP. Consider the case of a high income country with the same Gini as a low income country. 
+18. High [[Gender inequality index]] is good
+    1. False. The lower the better.
+19. High [[Gender development index]] is good
+    1. True.
+20. Most [[Gender inequality]] challenges are legal challenges
+    1. False. More often than not, they are cultural and social traditions.
 
 ---
 Links: 
