@@ -5,6 +5,7 @@ date: 14--Jan--2023
 
 # No poverty, social inclusion and equality
 
+## Topics covered
 - [[Poverty]]
 - [[Official development assistance]]
 - [[Social inclusion]]
