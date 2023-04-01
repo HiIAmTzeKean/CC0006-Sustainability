@@ -32,7 +32,7 @@ date: 28--Jan--2023
     - Already have food shortage that is not yet fixed, but number of capital expected to further increase
     - Rich people consumes more (50% more consumption per pax than in past)
     - 2 problems that have to be tackled, increase people, increase food per pax
-- Increased meat demand
+- Increased meat demand in [[Agriculture]]
     - Cause of cancer when overconsumed
     - Major contributor to GHG
     - More impact compared to plant based food on global warming

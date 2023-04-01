@@ -22,6 +22,13 @@ First time global leaders come together to discuss [[Climate change]] was the [[
 - Ocean body removes carbon dioxide
     - Ocean acidification 
 
+## Effects globally
+- Increased frequency and rate of natural disasters
+    - Natural disaster killed many and cost society money
+        - Highest number reported disasters in China, followed by US
+        - Highest number of death was in Indonesia.
+        - High income countries report high natural disaster, but the difference is how the countries have better resources to deal with the impact
+        - The poor will suffer earlier and most
 ## Singapore situation
 - Rising temperature over the past centuries
 - Urban island heat effect
