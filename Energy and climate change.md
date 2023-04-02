@@ -46,14 +46,26 @@ date: 31--Mar--2023
     1. True
 2. [[GDP]] is used to measure size of economy, performance and growth
     1. True
-3. We are more prosperous than ever before in terms of wealth
+3. Which sector contributes most to GHG. (a ) Agriculture and Forestry b ) Transportation c ) Industry d ) Electricity and Heat Production)
+    1. Electricity and Heat Production
+4. We are more prosperous than ever before in terms of wealth
     1. True. This is from the rise in GDP over the years
-4. Which [[Greenhouse gas]] is the main driver of [[Climate change]]
+5. Which [[Greenhouse gas]] is the main driver of [[Climate change]]
     1. CO2, taking into account of lifetime, concentration and heating effect
-5. Total [[Greenhouse gas]] usually represented by CO2
+6. Total [[Greenhouse gas]] usually represented by CO2
     1. True, it is seen as the main GHG
-6. Once all emission mitigation measures are in place, we can discard our adaption plans
+7. Once all emission mitigation measures are in place, we can discard our adaption plans
     1. False. They both work together to provide greater resilience to [[Climate change]] and to reduce overall impact of emissions. GHG also tends to remain for many years, it takes time to see improvements.
+8. What is carbon sequestration?
+    1. The process of capturing carbon dioxide from the atmosphere and storing it underground or in other long-term storage facilities. Refer to [[Emission mitigation]] carbon capture and storage
+9. What is the main cause of deforestation
+    1. [[Agriculture]]
+10. What is the name of the process by which heat is trapped in the Earth's atmosphere?
+    1. Greenhouse effect
+11. Which of the following is not a type of renewable energy source? a ) Wind power b ) Hydroelectric power c ) Nuclear power d ) Geothermal power
+    1. Nuclear power
+12. Which of the following is a benefit of using wind power? a) It produces no greenhouse gas emissions b) It is not affected by weather conditions c) It has a low upfront cost d) It requires very little land area
+    1. It produces no greenhouse gas emissions
 
 ---
 Links: 
