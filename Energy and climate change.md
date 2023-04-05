@@ -38,9 +38,26 @@ date: 31--Mar--2023
     - Adaptation to keep ourselves safe and buy time as we change
         - Flood defences
         - Protecting crops from droughts
-- Policy adoption
+- Policy Instruments & adoption
+    - [[Institution based policy]]
+    - [[Regulatory based policy]]
+    - [[Market based tool policy]]
+    - [[Non-market mechanism policy]]
     - Regulation can helps accelerate adoption and decarbonization
     - Incentives to drive behaviour change
+- International collaboration
+    - [[UNFCCC]]
+    - [[Kyoto Protocol]]
+    - [[Paris agreement]]
+- Economic challenge of estimation
+    - It is difficult to quantify [[Climate change]] impacts
+        - What is the cost of suffering ?
+        - How much would it cost us now and in the future ?
+- Emissions are not equal
+    - Developed countries are emitting substantially more (China, USA. India)
+    - Developing countries make up a small fraction of emission
+    - Most of the developing countries emissions are to fuel [[Consumerism]] in developed countries
+    - European countries with oil resources are huge emitters
 ## Question
 1. The world population growth has slow in recent times
     1. True

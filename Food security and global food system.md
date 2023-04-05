@@ -22,7 +22,7 @@ date: 28--Jan--2023
 ## Challenges
 - Armed conflict
     - Most of the hunger stems from war forcing these people to lose access to food and nutrition
-    - Identified as "single greatest challenge" to solve world  hunger
+    - Identified as "single greatest challenge" to solve world hunger
 - [[Climate change]] affecting agriculture
     - Agriculture is a major source of GHG which drives [[Climate change]]
     - Animals which produce methane

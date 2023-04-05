@@ -10,6 +10,7 @@ date: 01--Apr--2023
 - [[Responsible consumption]]
 ## Singapore strategy
 - Zero waste
+    - Adopting a [[circular economy]] approach to waste and resource management practices, and shifting towards more sustainable production and consumption
 - Mandatory packaging reporting
     - Managing of packaging waste
     - Bringing own containers and buying what is needed instead of pre-packaged amount
