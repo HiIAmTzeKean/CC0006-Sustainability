@@ -23,11 +23,9 @@ date: 14--Jan--2023
 Profile of these people
 - Young and uneducated
 - Live in rural area
-
 ### Successful region
 - East Asia
     - China rapid decline of poverty with rapid economy growth
-
 ### Solution for Sub-Saharan Africa
 - Farm productivity
     - Low crop yield compared to develop country tends to be a problem
@@ -39,7 +37,6 @@ Profile of these people
 - Corruption
 - Curbing of high population growth rate
     - Decreasing birth rate should be a TOP priority
-
 ### Solution for South Asia
 - Tackle high population density
     - Needs a fix to decrease number of capita

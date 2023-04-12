@@ -9,9 +9,9 @@ date: 01--Apr--2023
 - Higher noise related complains
     - Few of these activities were breaking the law (90 decibels for 5minutes)
 - Average outdoor noise level are higher than prescribed limit
-    - 69.4 decibels compared to recommended 67 per hour
-    - Noisy restates are usually mature estate with higher road density and enclosed building design can trap sound
-    - Can reach levels of 78 decibels
+    - Exposed to 69.4 decibels compared to the recommended 67 per hour 
+    - Noisy estates are usually mature estate with higher road density and enclosed building design can trap sound
+    - Can reach levels of 78 decibels, safe sound pressure is 55
 - Prolong exposure can cause
     - Cardiovascular disease
     - Stress and anxiety

@@ -16,7 +16,6 @@ date: 03--Apr--2023
     - Accelerates events
 - Usually these triggers do not happen overnight
     - Gradual change that can be detected
-    - 
 
 ---
 Links: 
